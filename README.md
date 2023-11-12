@@ -1,3 +1,3 @@
 # MAYUR-
-Author - mayur laxka<br>
-for next iine 
+Author - mayur laxkar<br>
+for next line 
